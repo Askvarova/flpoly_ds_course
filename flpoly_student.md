@@ -1,23 +1,23 @@
 ## Andrea Skvarova
 
-### Term Year 
+### 2021 
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- ENT2212
 
-- Course 2
+- FIN2001
 
-- Course 3
+- BUL2241
 
-- Course 4
+- COP2073
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Rhythm games
 
-- Thing 2
+- Gardening
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Learning from my courses
