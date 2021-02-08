@@ -1,18 +1,20 @@
-## Andrea Skvarova
+# Andrea Skvarova
 
-### 2021 
+## 2021 
 
-DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
+DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu)
 
-- ENT2212
+### Classes currently enrolled in: 
 
-- FIN2001
+- **ENT2212**
 
-- BUL2241
+- **FIN2001**
 
-- COP2073
+- **BUL2241**
 
-**Hobbies:**
+- **COP2073**
+
+### Hobbies:
 
 I am _passionate about_: 
 
